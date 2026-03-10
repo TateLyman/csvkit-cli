@@ -1,0 +1,11 @@
+name,age,city,salary,active
+Alice,30,"New York",75000,true
+Bob,25,"Los Angeles",62000,true
+"Charlie, Jr.",35,Chicago,88000,false
+Diana,28,"San Francisco",95000,true
+Eve,42,"New York",110000,true
+Frank,31,Chicago,71000,false
+Grace,27,"Los Angeles",68000,true
+"Hank ""The Tank""",45,Boston,125000,true
+Iris,33,"New York",82000,false
+Jack,29,Seattle,79000,true

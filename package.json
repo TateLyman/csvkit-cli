@@ -1,0 +1,45 @@
+{
+  "name": "csvkit-cli",
+  "version": "1.0.0",
+  "description": "A zero-dependency CLI for working with CSV files. Convert, filter, sort, slice, and analyze CSV data from your terminal.",
+  "main": "bin/csvkit.js",
+  "bin": {
+    "csvkit": "bin/csvkit.js"
+  },
+  "scripts": {
+    "test": "node bin/csvkit.js --help"
+  },
+  "keywords": [
+    "csv",
+    "cli",
+    "convert",
+    "json",
+    "filter",
+    "sort",
+    "columns",
+    "parse",
+    "tsv",
+    "data",
+    "command-line",
+    "terminal",
+    "spreadsheet",
+    "statistics",
+    "csv-parser",
+    "json2csv",
+    "csv2json"
+  ],
+  "author": "Tate Lyman",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "files": [
+    "bin/",
+    "LICENSE",
+    "README.md"
+  ]
+}
